@@ -1,5 +1,5 @@
 # Advanced Calculator
-
+Added multiple functions to the simple calculator and a loop to reiterate through the calculator again
 
 Prerequisites
 Google Chrome
